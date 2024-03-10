@@ -1,6 +1,6 @@
 # Car Dealership .NET Backend
 
-This project is a simple car dealership application that implements a .NET backend using hexagonal architecture. The application uses an MS SQL database for data storage and is deployed to the Azure cloud.
+This project is a simple car dealership application that implements a .NET backend using hexagonal architecture. The application uses an MS SQL database for data storage.
 
 ## Technologies used:
 
